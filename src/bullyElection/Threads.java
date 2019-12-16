@@ -16,6 +16,7 @@ public class Threads implements Runnable{
 
 	public void setProcess(Process process) {
 		this.process = process;
+		
 	}
 
 	public Threads(Process process, int total_processes) {
