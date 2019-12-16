@@ -25,6 +25,7 @@ public class Process {
 	
 	public void setLeader(boolean co) {
 		isLeader = co;
+		
 	}
 	
 	public boolean downFlag() {
