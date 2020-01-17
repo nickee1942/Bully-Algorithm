@@ -1,2 +1,2 @@
-# Bully-Algorithm
-Mutli Thread Vesion
+# Bully-Algorithm-Multi-Threads
+Mutli Threads Vesion
